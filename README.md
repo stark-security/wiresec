@@ -1,6 +1,12 @@
-# wiresec 
+─=≡Σ(([ ⊐•̀⌂•́]⊐
+
+# 📡 wiresec 
 
 Wiresec é Um Script que organiza e Realiza o download Das principais ferramentas de Wireless Attacks em Qualquer Distribuição Linux utilizando a Plataforma Do GitHub e O Git para a Realização dos Downloads. A Ferramenta utiliza um menu informativo numerado E Organizado em ordem alfabética, a Onde basta Digitar o Número da ferramenta desejada.
+
+# Versão Atual: 📦 1.1 -2019
+  Versões Anteriores:
+  📦 V 1.0 
 
 # Instalação
 
@@ -16,7 +22,7 @@ Wiresec é Um Script que organiza e Realiza o download Das principais ferramenta
 
 <ul>
 <li>
-<p>Um sistema operacional linux.</p>
+<p>Um sistema operacional linux.🐧 </p>
 </li>
 <li>
 <p>git
@@ -24,13 +30,13 @@ Wiresec é Um Script que organiza e Realiza o download Das principais ferramenta
 </li>
 </ul>
 
-# Screenshot
+# Screenshot 📷
 
 <img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/imagem.png">
 
-# Ajude o Projeto 
+# Ajude o Projeto ❤️
 
-Doe Criptomoedas 
+Doe Criptomoedas 💲
 
 Bitcoin  (BTC) 3HnkmPB7YxXBogG3chxGEnmya4kvVUocJD
 
@@ -47,3 +53,5 @@ Carteira (ZRX) 0x64E51aD79673AA5F676B1fa9E2c125415d99A65f
 Monero   (XMR) 46d5uvdp3QEB58QKuEv2Bc3ZJsJ2PBHmmD5U8U4BrBi1GqNdy6g4k9RLLttZ4nQuvCEgh3vvDapYRf23FEKc4UfcRfRooSE
 
 Electroneum (ETN) etnkN1WN5sjed53LmgVRc9ZUetYCQ9tvBQCG527NBPSri5nYSYD3b3TUmNfqt53VufhATam5NYokDYrHbJYN7wyo1ZqvTmbPJ6
+
+
